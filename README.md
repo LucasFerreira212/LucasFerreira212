@@ -1,4 +1,4 @@
-## Olá! Eu sou o LucasFerreira212👋
+## Olá! Eu sou o Lucas R. Ferreira👋
 
 - 🤓 Estou seguindo para o caminho Full-Stack
 - 👨‍💻 Sem experiência na área
