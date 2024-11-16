@@ -11,10 +11,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" 
-src="https://www.svgrepo.com/show/373589/excel.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" 
-src="https://img.icons8.com/?size=256&id=qYfwpsRXEcpc&format=png">
 </div>
   
   ##
