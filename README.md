@@ -34,7 +34,7 @@ referentes às áreas do TI, Informática, Marketing Digital ou assistência adm
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://www.svgrepo.com/show/354520/visual-studio.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
+  <img align="center" alt="IntelliJ" height="30" width="40" src="https://www.svgrepo.com/show/353906/intellij-idea.svg">
 </div>
   
  
