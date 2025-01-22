@@ -2,12 +2,12 @@
 
 - 🤓 Sempre dedicado à adquirir mais conhecimentos
 - 👨‍💻 Apaixonado por tecnologia
-- ☕ Amo um cafézinho durante o trabalho
+- 📚 Colégio Técnico da Unicamp, Cotuca
 
-Estou em busca da minha primeira oportunidade no mercado de trabalho como jovem
-aprendiz (remota, híbrida ou presencial). Ao consegui-la, vou poder aplicar e desenvolver grande
-parte dos conhecimentos que adquiri ao longo da minha trajetória, sejam aqueles
-referentes às áreas do TI, Informática, Marketing Digital ou assistência administrativa.
+Estudante do 2º ano do Ensino Médio com amplo conhecimento em tecnologias, incluindo 
+Java, Python e React. Experiência prática em desenvolvimento de projetos complexos em Java 
+e gerador automáticos de PDF em Python. Por enquanto, estou adquirindo conhecimento para criar 
+uma base excelente para ingressar no mercado de trabalho.
 
 <div> 
   <a href = "mailto:lucasrafa0190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
