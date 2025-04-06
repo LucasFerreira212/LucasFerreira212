@@ -2,7 +2,7 @@
 
 - 🤓 Sempre dedicado à adquirir mais conhecimentos
 - 👨‍💻 Apaixonado por tecnologia
-- 📚 Colégio Técnico da Unicamp, Cotuca
+- 📚 Colégio Técnico da Unicamp - Cotuca
 
 Estudante do 2º ano do Ensino Médio com amplo conhecimento em tecnologias, incluindo 
 Java, Python e React. Experiência prática em desenvolvimento de projetos complexos em Java 
