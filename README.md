@@ -1,41 +1,83 @@
-## Olá! Eu sou o Lucas R. Ferreira👋
+<h2 align="left">Hi 👋! My name is LucasFerreira212 and I'm a Full-Stack Developer.</h2>
 
-- 🤓 Sempre dedicado à adquirir mais conhecimentos
-- 👨‍💻 Apaixonado por tecnologia
-- 📚 Colégio Técnico da Unicamp - Cotuca
+###
 
-Estudante do 2º ano do Ensino Médio com amplo conhecimento em tecnologias, incluindo 
-Java, Python e React. Experiência prática em desenvolvimento de projetos complexos em Java 
-e gerador automáticos de PDF em Python. Por enquanto, estou adquirindo conhecimento para criar 
-uma base excelente para ingressar no mercado de trabalho.
+<p align="left">🤓 Always dedicated to acquiring more knowledge<br>👨‍💻 Passionate about technology<br>📚 Colégio Técnico da Unicamp - Cotuca</p>
 
-<div> 
-  <a href = "mailto:lucasrafa0190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-rafael-ferreira-153a092a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+###
+
+<p align="left">I'm a sophomore in high school with extensive knowledge of technologies such as Java, Python, and React. I have hands-on experience developing complex Java projects and automatic PDF generators in Python. I'm currently acquiring the knowledge necessary to build an excellent foundation for entering the job market.</p>
+
+###
+
+<h2 align="left">💻🛠 Technologies and Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
 </div>
 
-## 💻🛠 Tecnologias e Ferramentas
+###
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
-  <img align="center" alt="Vite.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://www.svgrepo.com/show/354520/visual-studio.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg">
-  <img align="center" alt="IntelliJ" height="30" width="40" src="https://www.svgrepo.com/show/353906/intellij-idea.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://www.svgrepo.com/show/354237/pycharm.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+<h2 align="left">📱 Contacts</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="36" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="36" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="36" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="61" height="36" alt="discord logo"  />
 </div>
-  
- 
+
+###
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVpbGFzdXh1dXM5ejNqNXA0eHJ5bDd6YmF6b2ZvbXZ5aGdiZnR2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasFerreira212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFerreira212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
